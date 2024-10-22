@@ -1,6 +1,7 @@
 I have found a way to solve Maxwell’s equations in open space analytically.
 
-Solving Maxwell’s equations analytically is like discovering an entrance to a treasure cave. The more I dig in the cave, the more treasures I see there are to be dug out. I want to share the treasure cave to anyone who is interested in exploring it.
+Solving Maxwell’s equations analytically is like discovering an entrance to a treasure cave. The more I dig in the cave, the more treasures I see there are to be dug out. 
+I am facing math difficulties, and lacking high performance computing resources. It is beyond a retired engineer’s hobby. I want to share the treasure cave to anyone who is interested in exploring it.
 What I got so far are presented in the following reports.
 
 1. Title: <a href="https://github.com/DavidGeUSA/MaxwellEquations/blob/main/doc/TimeSpaceTheorem.pdf">Time Space Theorem From Maxwell’s Equations</a>  <br>
